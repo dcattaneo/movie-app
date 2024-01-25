@@ -3,26 +3,26 @@
 
 
 
-[V]-Showing an input and a button to search for movies 
+Creating a form with an input and button to search for movies 
 
-[V]-Listing the movies found with title, year and poster.
+Listing the movies found with title, year and poster.
 
-[V]-Creating a form and making it work.
+Creating a form and making it work.
 
-[V]-GRID responsive.
+GRID responsive.
 
-[V]-Preventing the search from being done twice in a row.
+Preventing the search from being done twice in a row.
 
-[V]-Making search happen automatically on typing.
+Making search happen automatically on typing.
 
-[V]-Preventing search from being done continuously when typing.
+Preventing search from being done continuously when typing.
 
 
-APIS:
+API:
 
 - https://www.omdbapi.com/
   
-- API_KEY: 4287ad07
+
 
 
 
