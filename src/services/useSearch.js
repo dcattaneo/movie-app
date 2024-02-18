@@ -16,7 +16,7 @@ export function useSearch() {
     }
 
     if (search.length < 3) {
-      setError("Search must be at least 3 characters");
+      setError("Search must have at least 3 characters");
       return;
     }
 
